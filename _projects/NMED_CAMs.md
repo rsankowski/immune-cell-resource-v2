@@ -8,12 +8,6 @@ category: work
 related_publications: sankowski2023multiomic
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/image-for-brain-immunity-website.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 [*Sankowski, Süß et al, Nature Medicine 2023*](https://www.nature.com/articles/s41591-023-02673-1)
 
 ![](/assets/img/image-for-brain-immunity-website.png)
@@ -25,6 +19,3 @@ related_publications: sankowski2023multiomic
 ## [Access Raw Data](https://ega-archive.org/studies/EGAS50000000030)
 
 ## [Access Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
-
-
-  
