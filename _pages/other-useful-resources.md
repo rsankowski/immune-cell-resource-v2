@@ -5,8 +5,8 @@ title: resources
 description: selection of resources for brain immune cells
 nav: true
 nav_order: 4
-toc:
-  sidebar: left
+#toc:
+#  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
