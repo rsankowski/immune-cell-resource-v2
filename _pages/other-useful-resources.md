@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /other-useful-resources/
-title: other useful resources
+title: resources
 description: selection of resources for brain immune cells
 nav: true
 nav_order: 3

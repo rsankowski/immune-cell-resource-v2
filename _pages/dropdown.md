@@ -11,6 +11,6 @@ children:
     - title: protocols #projects
       permalink: /protocols/ #/projects/
     - title: divider
-    - title: other useful resources #blog
+    - title: resources #blog
       permalink: /other-useful-resources/ #/blog/
 ---
