@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /publications/
-title: publications
+permalink: /other-useful-resources/
+title: other useful resources
 nav: true
-nav_order: 1
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
@@ -14,8 +14,6 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
-toc:
-  sidebar: left
 ---
 
 <div class="post">

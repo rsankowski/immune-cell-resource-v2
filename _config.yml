@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by Roman Sankowski, MD PhD with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Contact: <a href="mailto:roman.sankowski@uniklinik-freiburg.de"roman.sankowski@uniklinik-freiburg.de</a>
+  Contact: roman.sankowski@uniklinik-freiburg.de
 keywords: brain, innate immunity, macrophages, microglia, CAMs, BAMs, glioblastoma, development  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -71,12 +71,12 @@ github_username: "rsankowski" # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: "r_sankowski" # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: "roman-sankowski" # your LinkedIn user name
+linkedin_username: #"roman-sankowski" # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: "i3Jkxe0AAAAJ&hl" # your Google Scholar ID
+scholar_userid: #"i3Jkxe0AAAAJ&hl" # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: "https://orcid.org/0000-0001-9215-8021" # your ORCID ID
+orcid_id: #"https://orcid.org/0000-0001-9215-8021" # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach us is via [email](mailto:roman.sankowski@uniklinik-freiburg.de).
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,8 +120,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Brain Immunity Blog # blog_name will be displayed in your blog page
+blog_description: Current developments in brain immunity
 permalink: /blog/:year/:title/
 
 # Pagination
